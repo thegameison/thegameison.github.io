@@ -1,4 +1,4 @@
-## About Me
+## Anirudh Kumar
 
 Hello! My name is Anirudh, and I am a sophomore studying Computer Science at the University of Washington.
 
@@ -8,6 +8,7 @@ Currently, I am learning some computer graphics concepts on my own time and hope
 
 Apart from programming, I train in Karate, \[ocassionally\] practice my violin, play video games, and go on hiking and camping trips with my family. I also love trivia: I am a huge _Jeopardy!_ fan and aspire to be a contestant on the show one day.
 
+<!---
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -39,3 +40,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
