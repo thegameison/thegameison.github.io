@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/thegameison/thegameison.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is Anirudh, and I am a sophomore studying Computer Science at the University of Washington.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have been immersed in the world of STEM since sixth grade, and I can't wait to grow my passions further.
+
+Currently, I am learning some computer graphics concepts on my own time and hope to get into some Arduino programming too.
+
+Apart from programming, I train in Karate, \[ocassionally\] practice my violin, play video games, and go on hiking and camping trips with my family. I also love trivia: I am a huge _Jeopardy!_ fan and aspire to be a contestant on the show one day.
 
 ### Markdown
 
